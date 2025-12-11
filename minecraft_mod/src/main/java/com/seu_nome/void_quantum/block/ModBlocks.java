@@ -14,27 +14,27 @@ public class ModBlocks {
 
     // ===== TIER 0: MINÉRIOS BÁSICOS =====
         public static final RegistryObject<Block> MINÉRIO_BASICO = BLOCKS.register("minerio_basico",
-            () -> new Block(Block.Properties.of().mapColor(MapColor.STONE).strength(3.0f, 3.0f).requiresCorrectToolForDrops().sound(SoundType.STONE)));
+            () -> new Block(Block.Properties.of().mapColor(MapColor.STONE).strength(3.0f, 3.0f).sound(SoundType.STONE)));
 
     // ===== TIER 1: MINÉRIOS ELEMENTARES =====
         public static final RegistryObject<Block> MINÉRIO_ELEMENTAR = BLOCKS.register("minerio_elementar",
-            () -> new Block(Block.Properties.of().mapColor(MapColor.COLOR_BLUE).strength(4.0f, 4.0f).requiresCorrectToolForDrops().sound(SoundType.STONE)));
+            () -> new Block(Block.Properties.of().mapColor(MapColor.COLOR_BLUE).strength(4.0f, 4.0f).sound(SoundType.STONE)));
 
     // ===== TIER 2: MINÉRIOS AVANÇADOS =====
         public static final RegistryObject<Block> MINÉRIO_AVANCADO = BLOCKS.register("minerio_avancado",
-            () -> new Block(Block.Properties.of().mapColor(MapColor.COLOR_CYAN).strength(5.0f, 5.0f).requiresCorrectToolForDrops().sound(SoundType.STONE)));
+            () -> new Block(Block.Properties.of().mapColor(MapColor.COLOR_CYAN).strength(5.0f, 5.0f).sound(SoundType.STONE)));
 
     // ===== TIER 3: MINÉRIOS SUPERIORES =====
         public static final RegistryObject<Block> MINÉRIO_SUPERIOR = BLOCKS.register("minerio_superior",
-            () -> new Block(Block.Properties.of().mapColor(MapColor.COLOR_PURPLE).strength(6.0f, 6.0f).requiresCorrectToolForDrops().sound(SoundType.STONE)));
+            () -> new Block(Block.Properties.of().mapColor(MapColor.COLOR_PURPLE).strength(6.0f, 6.0f).sound(SoundType.STONE)));
 
     // ===== TIER 4: MINÉRIOS SUPREMOS =====
         public static final RegistryObject<Block> MINÉRIO_SUPREMO = BLOCKS.register("minerio_supremo",
-            () -> new Block(Block.Properties.of().mapColor(MapColor.COLOR_MAGENTA).strength(7.0f, 7.0f).requiresCorrectToolForDrops().sound(SoundType.STONE)));
+            () -> new Block(Block.Properties.of().mapColor(MapColor.COLOR_MAGENTA).strength(7.0f, 7.0f).sound(SoundType.STONE)));
 
     // ===== TIER 5: MINÉRIOS INFINITOS =====
         public static final RegistryObject<Block> MINÉRIO_INFINITO = BLOCKS.register("minerio_infinito",
-            () -> new Block(Block.Properties.of().mapColor(MapColor.COLOR_LIGHT_GRAY).strength(8.0f, 8.0f).requiresCorrectToolForDrops().sound(SoundType.STONE)));
+            () -> new Block(Block.Properties.of().mapColor(MapColor.COLOR_LIGHT_GRAY).strength(8.0f, 8.0f).sound(SoundType.STONE)));
 
     // ===== BLOCOS DE STORAGE =====
     public static final RegistryObject<Block> BLOCO_ESSENCIA_INFINITA = BLOCKS.register("bloco_essencia_infinita",
