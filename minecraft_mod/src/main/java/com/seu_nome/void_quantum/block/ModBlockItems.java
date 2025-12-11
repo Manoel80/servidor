@@ -12,22 +12,22 @@ public class ModBlockItems {
     public static final DeferredRegister<Item> ITEMS = DeferredRegister.create(ForgeRegistries.ITEMS, VoidQuantum.MOD_ID);
 
     // MINÉRIOS
-    public static final RegistryObject<Item> MINÉRIO_BASICO = ITEMS.register("minério_basico",
+    public static final RegistryObject<Item> MINÉRIO_BASICO = ITEMS.register("minerio_basico",
             () -> new BlockItem(ModBlocks.MINÉRIO_BASICO.get(), new Item.Properties()));
     
-    public static final RegistryObject<Item> MINÉRIO_ELEMENTAR = ITEMS.register("minério_elementar",
+    public static final RegistryObject<Item> MINÉRIO_ELEMENTAR = ITEMS.register("minerio_elementar",
             () -> new BlockItem(ModBlocks.MINÉRIO_ELEMENTAR.get(), new Item.Properties()));
     
-    public static final RegistryObject<Item> MINÉRIO_AVANCADO = ITEMS.register("minério_avancado",
+    public static final RegistryObject<Item> MINÉRIO_AVANCADO = ITEMS.register("minerio_avancado",
             () -> new BlockItem(ModBlocks.MINÉRIO_AVANCADO.get(), new Item.Properties()));
     
-    public static final RegistryObject<Item> MINÉRIO_SUPERIOR = ITEMS.register("minério_superior",
+    public static final RegistryObject<Item> MINÉRIO_SUPERIOR = ITEMS.register("minerio_superior",
             () -> new BlockItem(ModBlocks.MINÉRIO_SUPERIOR.get(), new Item.Properties()));
     
-    public static final RegistryObject<Item> MINÉRIO_SUPREMO = ITEMS.register("minério_supremo",
+    public static final RegistryObject<Item> MINÉRIO_SUPREMO = ITEMS.register("minerio_supremo",
             () -> new BlockItem(ModBlocks.MINÉRIO_SUPREMO.get(), new Item.Properties()));
     
-    public static final RegistryObject<Item> MINÉRIO_INFINITO = ITEMS.register("minério_infinito",
+    public static final RegistryObject<Item> MINÉRIO_INFINITO = ITEMS.register("minerio_infinito",
             () -> new BlockItem(ModBlocks.MINÉRIO_INFINITO.get(), new Item.Properties()));
 
     // STORAGE

@@ -13,27 +13,27 @@ public class ModBlocks {
     public static final DeferredRegister<Block> BLOCKS = DeferredRegister.create(ForgeRegistries.BLOCKS, VoidQuantum.MOD_ID);
 
     // ===== TIER 0: MINÉRIOS BÁSICOS =====
-    public static final RegistryObject<Block> MINÉRIO_BASICO = BLOCKS.register("minério_basico",
+        public static final RegistryObject<Block> MINÉRIO_BASICO = BLOCKS.register("minerio_basico",
             () -> new Block(Block.Properties.of().mapColor(MapColor.STONE).strength(3.0f, 3.0f).requiresCorrectToolForDrops().sound(SoundType.STONE)));
 
     // ===== TIER 1: MINÉRIOS ELEMENTARES =====
-    public static final RegistryObject<Block> MINÉRIO_ELEMENTAR = BLOCKS.register("minério_elementar",
+        public static final RegistryObject<Block> MINÉRIO_ELEMENTAR = BLOCKS.register("minerio_elementar",
             () -> new Block(Block.Properties.of().mapColor(MapColor.COLOR_BLUE).strength(4.0f, 4.0f).requiresCorrectToolForDrops().sound(SoundType.STONE)));
 
     // ===== TIER 2: MINÉRIOS AVANÇADOS =====
-    public static final RegistryObject<Block> MINÉRIO_AVANCADO = BLOCKS.register("minério_avancado",
+        public static final RegistryObject<Block> MINÉRIO_AVANCADO = BLOCKS.register("minerio_avancado",
             () -> new Block(Block.Properties.of().mapColor(MapColor.COLOR_CYAN).strength(5.0f, 5.0f).requiresCorrectToolForDrops().sound(SoundType.STONE)));
 
     // ===== TIER 3: MINÉRIOS SUPERIORES =====
-    public static final RegistryObject<Block> MINÉRIO_SUPERIOR = BLOCKS.register("minério_superior",
+        public static final RegistryObject<Block> MINÉRIO_SUPERIOR = BLOCKS.register("minerio_superior",
             () -> new Block(Block.Properties.of().mapColor(MapColor.COLOR_PURPLE).strength(6.0f, 6.0f).requiresCorrectToolForDrops().sound(SoundType.STONE)));
 
     // ===== TIER 4: MINÉRIOS SUPREMOS =====
-    public static final RegistryObject<Block> MINÉRIO_SUPREMO = BLOCKS.register("minério_supremo",
+        public static final RegistryObject<Block> MINÉRIO_SUPREMO = BLOCKS.register("minerio_supremo",
             () -> new Block(Block.Properties.of().mapColor(MapColor.COLOR_MAGENTA).strength(7.0f, 7.0f).requiresCorrectToolForDrops().sound(SoundType.STONE)));
 
     // ===== TIER 5: MINÉRIOS INFINITOS =====
-    public static final RegistryObject<Block> MINÉRIO_INFINITO = BLOCKS.register("minério_infinito",
+        public static final RegistryObject<Block> MINÉRIO_INFINITO = BLOCKS.register("minerio_infinito",
             () -> new Block(Block.Properties.of().mapColor(MapColor.COLOR_LIGHT_GRAY).strength(8.0f, 8.0f).requiresCorrectToolForDrops().sound(SoundType.STONE)));
 
     // ===== BLOCOS DE STORAGE =====

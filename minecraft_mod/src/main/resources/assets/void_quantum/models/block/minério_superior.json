@@ -1,6 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "void_quantum:block/min\u00e9rio_superior"
-  }
-}

@@ -59,12 +59,12 @@ CORES = {
     'boots_infinito': (255, 200, 0),
     
     # Minérios
-    'minério_basico': (100, 100, 100),            # Cinza
-    'minério_elementar': (50, 150, 255),          # Azul
-    'minério_avancado': (0, 200, 255),            # Ciano
-    'minério_superior': (150, 0, 255),            # Roxo
-    'minério_supremo': (255, 0, 150),             # Magenta
-    'minério_infinito': (255, 255, 0),            # Amarelo
+    'minerio_basico': (100, 100, 100),            # Cinza
+    'minerio_elementar': (50, 150, 255),          # Azul
+    'minerio_avancado': (0, 200, 255),            # Ciano
+    'minerio_superior': (150, 0, 255),            # Roxo
+    'minerio_supremo': (255, 0, 150),             # Magenta
+    'minerio_infinito': (255, 255, 0),            # Amarelo
     
     # Blocos
     'bau_infinito_t1': (150, 120, 80),            # Marrom
@@ -136,8 +136,8 @@ for nome, cor in CORES.items():
     if nome not in ['bau_infinito_t1', 'bau_infinito_t5', 'gerador_basico', 'gerador_elementar', 
                     'gerador_superior', 'gerador_infinito', 'reator_fissao', 'reator_fusao',
                     'reator_termoclear', 'reator_hibrido', 'processador_tier1', 'processador_tier5',
-                    'bloco_energetico', 'bloco_essencia_infinita', 'minério_basico', 'minério_elementar',
-                    'minério_avancado', 'minério_superior', 'minério_supremo', 'minério_infinito']:
+                    'bloco_energetico', 'bloco_essencia_infinita', 'minerio_basico', 'minerio_elementar',
+                    'minerio_avancado', 'minerio_superior', 'minerio_supremo', 'minerio_infinito']:
         img = criar_textura_item(nome, cor)
         caminho = f"src/main/resources/assets/nexus_energetico/textures/item/{nome}.png"
         img.save(caminho)
@@ -148,8 +148,8 @@ print("\nCriando texturas de BLOCOS...")
 blocos = ['bau_infinito_t1', 'bau_infinito_t5', 'gerador_basico', 'gerador_elementar', 
           'gerador_superior', 'gerador_infinito', 'reator_fissao', 'reator_fusao',
           'reator_termoclear', 'reator_hibrido', 'processador_tier1', 'processador_tier5',
-          'bloco_energetico', 'bloco_essencia_infinita', 'minério_basico', 'minério_elementar',
-          'minério_avancado', 'minério_superior', 'minério_supremo', 'minério_infinito']
+          'bloco_energetico', 'bloco_essencia_infinita', 'minerio_basico', 'minerio_elementar',
+          'minerio_avancado', 'minerio_superior', 'minerio_supremo', 'minerio_infinito']
 
 for nome in blocos:
     if nome in CORES:
