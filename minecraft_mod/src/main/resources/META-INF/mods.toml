@@ -1,11 +1,11 @@
-modLoader="javafxmod"
+modLoader="javafml"
 loaderVersion="[1,)"
 license="MIT"
 issueTrackerURL="https://github.com/seu_usuario/nexus_energetico/issues"
 showAsResourcePack=false
 
 [[mods]]
-modId="nexus_energetico"
+modId="void_quantum"
 version="${file.jarVersion}"
 displayName="Void Quantum"
 logoFile="logo.png"
