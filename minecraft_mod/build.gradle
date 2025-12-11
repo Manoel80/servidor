@@ -15,7 +15,7 @@ plugins {
 apply plugin: 'net.minecraftforge.gradle'
 
 group = 'com.seu_nome'
-version = '1.0.0'
+version = '1.0.1'
 archivesBaseName = 'void_quantum'
 
 java {
