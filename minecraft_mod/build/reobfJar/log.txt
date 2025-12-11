@@ -139,12 +139,12 @@ Writing Output: /workspaces/servidor/minecraft_mod/build/reobfJar/output.jar
   assets/void_quantum/blockstates/gerador_elementar.json
   assets/void_quantum/blockstates/gerador_infinito.json
   assets/void_quantum/blockstates/gerador_superior.json
-  assets/void_quantum/blockstates/minￃﾩrio_avancado.json
-  assets/void_quantum/blockstates/minￃﾩrio_basico.json
-  assets/void_quantum/blockstates/minￃﾩrio_elementar.json
-  assets/void_quantum/blockstates/minￃﾩrio_infinito.json
-  assets/void_quantum/blockstates/minￃﾩrio_superior.json
-  assets/void_quantum/blockstates/minￃﾩrio_supremo.json
+  assets/void_quantum/blockstates/minerio_avancado.json
+  assets/void_quantum/blockstates/minerio_basico.json
+  assets/void_quantum/blockstates/minerio_elementar.json
+  assets/void_quantum/blockstates/minerio_infinito.json
+  assets/void_quantum/blockstates/minerio_superior.json
+  assets/void_quantum/blockstates/minerio_supremo.json
   assets/void_quantum/blockstates/processador_tier1.json
   assets/void_quantum/blockstates/processador_tier5.json
   assets/void_quantum/blockstates/reator_fissao.json
@@ -164,12 +164,12 @@ Writing Output: /workspaces/servidor/minecraft_mod/build/reobfJar/output.jar
   assets/void_quantum/models/block/gerador_elementar.json
   assets/void_quantum/models/block/gerador_infinito.json
   assets/void_quantum/models/block/gerador_superior.json
-  assets/void_quantum/models/block/minￃﾩrio_avancado.json
-  assets/void_quantum/models/block/minￃﾩrio_basico.json
-  assets/void_quantum/models/block/minￃﾩrio_elementar.json
-  assets/void_quantum/models/block/minￃﾩrio_infinito.json
-  assets/void_quantum/models/block/minￃﾩrio_superior.json
-  assets/void_quantum/models/block/minￃﾩrio_supremo.json
+  assets/void_quantum/models/block/minerio_avancado.json
+  assets/void_quantum/models/block/minerio_basico.json
+  assets/void_quantum/models/block/minerio_elementar.json
+  assets/void_quantum/models/block/minerio_infinito.json
+  assets/void_quantum/models/block/minerio_superior.json
+  assets/void_quantum/models/block/minerio_supremo.json
   assets/void_quantum/models/block/processador_tier1.json
   assets/void_quantum/models/block/processador_tier5.json
   assets/void_quantum/models/block/reator_fissao.json
@@ -218,12 +218,12 @@ Writing Output: /workspaces/servidor/minecraft_mod/build/reobfJar/output.jar
   assets/void_quantum/models/item/leggings_superior.json
   assets/void_quantum/models/item/machado_elementar.json
   assets/void_quantum/models/item/machado_supremo.json
-  assets/void_quantum/models/item/minￃﾩrio_avancado.json
-  assets/void_quantum/models/item/minￃﾩrio_basico.json
-  assets/void_quantum/models/item/minￃﾩrio_elementar.json
-  assets/void_quantum/models/item/minￃﾩrio_infinito.json
-  assets/void_quantum/models/item/minￃﾩrio_superior.json
-  assets/void_quantum/models/item/minￃﾩrio_supremo.json
+  assets/void_quantum/models/item/minerio_avancado.json
+  assets/void_quantum/models/item/minerio_basico.json
+  assets/void_quantum/models/item/minerio_elementar.json
+  assets/void_quantum/models/item/minerio_infinito.json
+  assets/void_quantum/models/item/minerio_superior.json
+  assets/void_quantum/models/item/minerio_supremo.json
   assets/void_quantum/models/item/nucleo_avancado.json
   assets/void_quantum/models/item/nucleo_elementar.json
   assets/void_quantum/models/item/nucleo_infinito.json
@@ -279,12 +279,12 @@ Writing Output: /workspaces/servidor/minecraft_mod/build/reobfJar/output.jar
   assets/void_quantum/textures/block/gerador_elementar.png
   assets/void_quantum/textures/block/gerador_infinito.png
   assets/void_quantum/textures/block/gerador_superior.png
-  assets/void_quantum/textures/block/minￃﾩrio_avancado.png
-  assets/void_quantum/textures/block/minￃﾩrio_basico.png
-  assets/void_quantum/textures/block/minￃﾩrio_elementar.png
-  assets/void_quantum/textures/block/minￃﾩrio_infinito.png
-  assets/void_quantum/textures/block/minￃﾩrio_superior.png
-  assets/void_quantum/textures/block/minￃﾩrio_supremo.png
+  assets/void_quantum/textures/block/minerio_avancado.png
+  assets/void_quantum/textures/block/minerio_basico.png
+  assets/void_quantum/textures/block/minerio_elementar.png
+  assets/void_quantum/textures/block/minerio_infinito.png
+  assets/void_quantum/textures/block/minerio_superior.png
+  assets/void_quantum/textures/block/minerio_supremo.png
   assets/void_quantum/textures/block/processador_tier1.png
   assets/void_quantum/textures/block/processador_tier5.png
   assets/void_quantum/textures/block/reator_fissao.png

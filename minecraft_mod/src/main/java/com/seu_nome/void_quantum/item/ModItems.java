@@ -84,43 +84,43 @@ public class ModItems {
 
     // ===== BATERIAS MODULARES =====
     public static final RegistryObject<Item> BATERIA_BASICA = ITEMS.register("bateria_basica",
-            () -> new Item(new Item.Properties().durability(10000)));
+            () -> new Item(new Item.Properties().stacksTo(1)));
     
     public static final RegistryObject<Item> BATERIA_ELEMENTAR = ITEMS.register("bateria_elementar",
-            () -> new Item(new Item.Properties().durability(100000)));
+            () -> new Item(new Item.Properties().stacksTo(1)));
     
     public static final RegistryObject<Item> BATERIA_AVANCADA = ITEMS.register("bateria_avancada",
-            () -> new Item(new Item.Properties().durability(1000000)));
+            () -> new Item(new Item.Properties().stacksTo(1)));
     
     public static final RegistryObject<Item> BATERIA_SUPERIOR = ITEMS.register("bateria_superior",
-            () -> new Item(new Item.Properties().durability(10000000)));
+            () -> new Item(new Item.Properties().stacksTo(1)));
     
     public static final RegistryObject<Item> BATERIA_SUPREMA = ITEMS.register("bateria_suprema",
-            () -> new Item(new Item.Properties().durability(100000000)));
+            () -> new Item(new Item.Properties().stacksTo(1)));
     
     public static final RegistryObject<Item> BATERIA_INFINITA = ITEMS.register("bateria_infinita",
-            () -> new Item(new Item.Properties().durability(Integer.MAX_VALUE)));
+            () -> new Item(new Item.Properties().stacksTo(1)));
 
     // ===== FERRAMENTAS PROGRESSIVAS (ITEMS SIMPLES) =====
     // Tier 1
     public static final RegistryObject<Item> PICARETA_ELEMENTAR = ITEMS.register("picareta_elementar",
-            () -> new Item(new Item.Properties().durability(500)));
+            () -> new Item(new Item.Properties().stacksTo(1)));
 
     public static final RegistryObject<Item> ESPADA_ELEMENTAR = ITEMS.register("espada_elementar",
-            () -> new Item(new Item.Properties().durability(600)));
+            () -> new Item(new Item.Properties().stacksTo(1)));
 
     public static final RegistryObject<Item> MACHADO_ELEMENTAR = ITEMS.register("machado_elementar",
-            () -> new Item(new Item.Properties().durability(700)));
+            () -> new Item(new Item.Properties().stacksTo(1)));
 
     // Tier 5 (Supremo)
     public static final RegistryObject<Item> PICARETA_SUPREMA = ITEMS.register("picareta_suprema",
-            () -> new Item(new Item.Properties().durability(5000)));
+            () -> new Item(new Item.Properties().stacksTo(1)));
 
     public static final RegistryObject<Item> ESPADA_SUPREMA = ITEMS.register("espada_suprema",
-            () -> new Item(new Item.Properties().durability(6000)));
+            () -> new Item(new Item.Properties().stacksTo(1)));
 
     public static final RegistryObject<Item> MACHADO_SUPREMO = ITEMS.register("machado_supremo",
-            () -> new Item(new Item.Properties().durability(7000)));
+            () -> new Item(new Item.Properties().stacksTo(1)));
 
     // ===== ARMADURAS SIMPLES (TIERS) =====
     // Tier 1: Elementar
