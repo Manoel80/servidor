@@ -15,7 +15,7 @@ plugins {
 apply plugin: 'net.minecraftforge.gradle'
 
 group = 'com.seu_nome'
-version = '1.0.3'
+version = '1.0.4'
 archivesBaseName = 'void_quantum'
 
 java {
@@ -50,7 +50,7 @@ minecraft {
 }
 
 dependencies {
-    minecraft 'net.minecraftforge:forge:1.21.1-52.0.0'
+    minecraft 'net.minecraftforge:forge:1.21.1-52.1.0'
 }
 
 repositories {
