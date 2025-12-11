@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BRB",
+    "RTR",
+    "BRB"
+  ],
+  "key": {
+    "B": {"item": "void_quantum:bateria_infinita"},
+    "R": {"item": "void_quantum:reator_termoclear"},
+    "T": {"item": "void_quantum:reator_fusao"}
+  },
+  "result": {
+    "item": "void_quantum:reator_hibrido",
+    "count": 1
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ESE",
+    "SBS",
+    "ESE"
+  ],
+  "key": {
+    "E": {"item": "void_quantum:essencia_basica"},
+    "S": {"item": "minecraft:stone"},
+    "B": {"item": "minecraft:chest"}
+  },
+  "result": {
+    "item": "void_quantum:bau_infinito_t1",
+    "count": 1
+  }
+}

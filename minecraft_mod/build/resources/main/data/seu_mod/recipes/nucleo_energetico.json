@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CCC",
+    "CEC",
+    "CCC"
+  ],
+  "key": {
+    "C": {
+      "item": "seu_mod:cristal_infernal"
+    },
+    "E": {
+      "item": "seu_mod:essencia_celestial"
+    }
+  },
+  "result": {
+    "item": "seu_mod:nucleo_energetico",
+    "count": 1
+  }
+}

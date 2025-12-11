@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "E E",
+    "EIE",
+    "III"
+  ],
+  "key": {
+    "E": {
+      "item": "seu_mod:essencia_celestial"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "seu_mod:picareta_aquecida",
+    "count": 1
+  }
+}

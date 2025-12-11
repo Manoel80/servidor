@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "NEN",
+    "EBE",
+    "NEN"
+  ],
+  "key": {
+    "N": {"item": "void_quantum:nucleo_infinito"},
+    "E": {"item": "void_quantum:essencia_infinita"},
+    "B": {"item": "void_quantum:bau_infinito_t1"}
+  },
+  "result": {
+    "item": "void_quantum:bau_infinito_t5",
+    "count": 1
+  }
+}

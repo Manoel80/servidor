@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "NSN",
+    "SRS",
+    "NSN"
+  ],
+  "key": {
+    "N": {"item": "void_quantum:nucleo_superior"},
+    "S": {"item": "void_quantum:essencia_superior"},
+    "R": {"item": "minecraft:redstone_block"}
+  },
+  "result": {
+    "item": "void_quantum:gerador_superior",
+    "count": 1
+  }
+}

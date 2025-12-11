@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "NBN",
+    "BEB",
+    "NBN"
+  ],
+  "key": {
+    "N": {"item": "void_quantum:nucleo_elementar"},
+    "B": {"item": "minecraft:copper_ingot"},
+    "E": {"item": "void_quantum:essencia_elementar"}
+  },
+  "result": {
+    "item": "void_quantum:bateria_elementar",
+    "count": 1
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CEC",
+    "CEC",
+    " I "
+  ],
+  "key": {
+    "C": {
+      "item": "seu_mod:cristal_infernal"
+    },
+    "E": {
+      "item": "seu_mod:essencia_celestial"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "seu_mod:espada_energetica",
+    "count": 1
+  }
+}

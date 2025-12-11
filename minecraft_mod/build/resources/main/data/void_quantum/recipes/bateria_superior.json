@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "NSN",
+    "SBS",
+    "NSN"
+  ],
+  "key": {
+    "N": {"item": "void_quantum:nucleo_superior"},
+    "S": {"item": "void_quantum:essencia_superior"},
+    "B": {"item": "void_quantum:bateria_elementar"}
+  },
+  "result": {
+    "item": "void_quantum:bateria_superior",
+    "count": 1
+  }
+}

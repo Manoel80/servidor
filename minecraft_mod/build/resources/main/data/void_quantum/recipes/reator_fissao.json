@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "NSN",
+    "SNS",
+    "NSN"
+  ],
+  "key": {
+    "N": {"item": "void_quantum:nucleo_superior"},
+    "S": {"item": "void_quantum:essencia_superior"}
+  },
+  "result": {
+    "item": "void_quantum:reator_fissao",
+    "count": 1
+  }
+}

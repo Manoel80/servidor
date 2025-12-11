@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "IAI",
+    "ARA",
+    "IAI"
+  ],
+  "key": {
+    "I": {"item": "void_quantum:nucleo_infinito"},
+    "A": {"item": "void_quantum:essencia_infinita"},
+    "R": {"item": "void_quantum:reator_fusao"}
+  },
+  "result": {
+    "item": "void_quantum:reator_termoclear",
+    "count": 1
+  }
+}

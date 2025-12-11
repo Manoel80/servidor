@@ -1,0 +1,103 @@
+# 🌌 VOID QUANTUM - Descrição Curse Forge
+
+## [PT-BR] Descrição Portuguesa
+
+
+**Autor:** Manoel80 — Brasileiro, alto iniciante e independente. Versão em inglês: tradução feita com ajuda.
+
+**Author:** Manoel80 — Brazilian, high beginner and independent. English version: translated with assistance.
+
+
+Bem-vindo ao **VOID QUANTUM** - um mod revolucionário de progressão energética para Minecraft 1.21.1 com Forge!
+
+### ⚡ Características Principais:
+
+🔋 **6 Tiers de Progressão** - Do básico ao infinito  
+⚛️ **4 Reatores Nucleares** - Fissão, Fusão, Termoclear e Híbrido  
+💾 **Baterias Modulares** - Até INT_MAX (capacidade infinita!)  
+🛠️ **Ferramentas Progressivas** - Com recuperação automática  
+🛡️ **Armaduras Completas** - 12 peças em 3 tiers  
+💎 **62 Items Únicos** - Totalmente balanceados  
+🧱 **20 Blocos Especiais** - Geradores, reatores e armazenamento  
+
+### 🎮 Gameplay:
+- Minere Minério Básico para começar
+- Colete recursos e escale através dos 6 tiers
+- Construa geradores de energia
+- Encha baterias com energia infinita
+- Atingir o ENDGAME com o Reator Híbrido (500 MW/tick!)
+
+### 📊 Especificações:
+- ✅ 80 KB otimizado
+- ✅ 10 classes Java bem estruturadas
+- ✅ 80 modelos 3D customizados
+- ✅ 60 texturas coloridas
+- ✅ 12 receitas balanceadas
+- ✅ Suporte PT-BR + EN-US
+- ✅ Compatível com Forge Energy
+- ✅ 0 erros de compilação
+
+### 🔧 Requisitos:
+- Minecraft 1.21.1
+- Forge 52.0.0+
+- Java 21+
+- RAM: 2GB+ recomendado
+
+### 🌟 Por que jogar?
+- Sistema de progressão profissional
+- 6 tiers oferecem 100+ horas de gameplay
+- Reatores nucleares como endgame
+- Suporte completo em português
+- Balanceamento cuidado
+- Zero janelas de exploração (farms infinitas)
+
+**Aproveite o Void Quantum e explore o vazio quântico!** 🌌⚛️
+
+---
+
+## [EN-US] English Description
+
+Welcome to **VOID QUANTUM** - a revolutionary energy progression mod for Minecraft 1.21.1 with Forge!
+
+### ⚡ Main Features:
+
+🔋 **6 Progression Tiers** - From basic to infinite  
+⚛️ **4 Nuclear Reactors** - Fission, Fusion, Thermonuclear and Hybrid  
+💾 **Modular Batteries** - Up to INT_MAX capacity!  
+🛠️ **Progressive Tools** - With automatic recovery  
+🛡️ **Complete Armor Sets** - 12 pieces in 3 tiers  
+💎 **62 Unique Items** - Fully balanced  
+🧱 **20 Special Blocks** - Generators, reactors and storage  
+
+### 🎮 Gameplay:
+- Mine Basic Ore to start
+- Gather resources and climb through 6 tiers
+- Build energy generators
+- Fill batteries with infinite energy
+- Reach ENDGAME with the Hybrid Reactor (500 MW/tick!)
+
+### 📊 Specifications:
+- ✅ 80 KB optimized
+- ✅ 10 well-structured Java classes
+- ✅ 80 custom 3D models
+- ✅ 60 colorful textures
+- ✅ 12 balanced recipes
+- ✅ Full PT-BR + EN-US support
+- ✅ Forge Energy compatible
+- ✅ 0 compilation errors
+
+### 🔧 Requirements:
+- Minecraft 1.21.1
+- Forge 52.0.0+
+- Java 21+
+- RAM: 2GB+ recommended
+
+### 🌟 Why play?
+- Professional progression system
+- 6 tiers offer 100+ hours of gameplay
+- Nuclear reactors as endgame
+- Full Portuguese support
+- Careful balance
+- Zero infinite farm windows
+
+**Enjoy Void Quantum and explore the quantum void!** 🌌⚛️

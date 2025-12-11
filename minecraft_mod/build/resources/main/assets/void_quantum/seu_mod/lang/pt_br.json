@@ -1,0 +1,15 @@
+{
+  "modname.seu_mod": "Seu Nome do Mod",
+  
+  "item.seu_mod.essencia_celestial": "Essência Celestial",
+  "item.seu_mod.cristal_infernal": "Cristal Infernal",
+  "item.seu_mod.nucleo_energetico": "Núcleo Energético",
+  
+  "item.seu_mod.picareta_aquecida": "Picareta Aquecida",
+  "item.seu_mod.espada_energetica": "Espada Energética",
+  "item.seu_mod.machado_plasmatico": "Machado Plasmático",
+  
+  "block.seu_mod.minério_essencia": "Minério de Essência",
+  "block.seu_mod.bau_infinito": "Baú Infinito",
+  "block.seu_mod.bloco_energetico": "Bloco Energético"
+}

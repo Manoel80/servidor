@@ -1,0 +1,79 @@
+{
+  "modname.void_quantum": "Void Quantum",
+  
+  "itemGroup.void_quantum": "Void Quantum",
+  
+  "item.void_quantum.essencia_basica": "Essência Básica",
+  "item.void_quantum.essencia_elementar": "Essência Elementar",
+  "item.void_quantum.essencia_avancada": "Essência Avançada",
+  "item.void_quantum.essencia_superior": "Essência Superior",
+  "item.void_quantum.essencia_suprema": "Essência Suprema",
+  "item.void_quantum.essencia_infinita": "Essência Infinita",
+  
+  "item.void_quantum.cristal_elementar": "Cristal Elementar",
+  "item.void_quantum.cristal_avancado": "Cristal Avançado",
+  "item.void_quantum.cristal_superior": "Cristal Superior",
+  "item.void_quantum.cristal_supremo": "Cristal Supremo",
+  "item.void_quantum.cristal_infinito": "Cristal Infinito",
+  
+  "item.void_quantum.nucleo_elementar": "Núcleo Elementar",
+  "item.void_quantum.nucleo_avancado": "Núcleo Avançado",
+  "item.void_quantum.nucleo_superior": "Núcleo Superior",
+  "item.void_quantum.nucleo_supremo": "Núcleo Supremo",
+  "item.void_quantum.nucleo_infinito": "Núcleo Infinito",
+  
+  "item.void_quantum.bateria_basica": "Bateria Básica",
+  "item.void_quantum.bateria_elementar": "Bateria Elementar",
+  "item.void_quantum.bateria_avancada": "Bateria Avançada",
+  "item.void_quantum.bateria_superior": "Bateria Superior",
+  "item.void_quantum.bateria_suprema": "Bateria Suprema",
+  "item.void_quantum.bateria_infinita": "Bateria Infinita",
+  
+  "item.void_quantum.picareta_elementar": "Picareta Elementar",
+  "item.void_quantum.picareta_suprema": "Picareta Suprema",
+  "item.void_quantum.espada_elementar": "Espada Elementar",
+  "item.void_quantum.espada_suprema": "Espada Suprema",
+  "item.void_quantum.machado_elementar": "Machado Elementar",
+  "item.void_quantum.machado_supremo": "Machado Supremo",
+  
+  "item.void_quantum.helmet_elementar": "Capacete Elementar",
+  "item.void_quantum.chestplate_elementar": "Peitoral Elementar",
+  "item.void_quantum.leggings_elementar": "Calças Elementares",
+  "item.void_quantum.boots_elementar": "Botas Elementares",
+  
+  "item.void_quantum.helmet_superior": "Capacete Superior",
+  "item.void_quantum.chestplate_superior": "Peitoral Superior",
+  "item.void_quantum.leggings_superior": "Calças Superiores",
+  "item.void_quantum.boots_superior": "Botas Superiores",
+  
+  "item.void_quantum.helmet_infinito": "Capacete Infinito",
+  "item.void_quantum.chestplate_infinito": "Peitoral Infinito",
+  "item.void_quantum.leggings_infinito": "Calças Infinitas",
+  "item.void_quantum.boots_infinito": "Botas Infinitas",
+  
+  "block.void_quantum.minério_basico": "Minério Básico",
+  "block.void_quantum.minério_elementar": "Minério Elementar",
+  "block.void_quantum.minério_avancado": "Minério Avançado",
+  "block.void_quantum.minério_superior": "Minério Superior",
+  "block.void_quantum.minério_supremo": "Minério Supremo",
+  "block.void_quantum.minério_infinito": "Minério Infinito",
+  
+  "block.void_quantum.bau_infinito_t1": "Baú Infinito T1",
+  "block.void_quantum.bau_infinito_t5": "Baú Infinito T5",
+  
+  "block.void_quantum.gerador_basico": "Gerador Básico",
+  "block.void_quantum.gerador_elementar": "Gerador Elementar",
+  "block.void_quantum.gerador_superior": "Gerador Superior",
+  "block.void_quantum.gerador_infinito": "Gerador Infinito",
+  
+  "block.void_quantum.reator_fissao": "Reator de Fissão",
+  "block.void_quantum.reator_fusao": "Reator de Fusão",
+  "block.void_quantum.reator_termoclear": "Reator Termoclear",
+  "block.void_quantum.reator_hibrido": "Reator Híbrido",
+  
+  "block.void_quantum.processador_tier1": "Processador Tier 1",
+  "block.void_quantum.processador_tier5": "Processador Tier 5",
+  
+  "block.void_quantum.bloco_energetico": "Bloco Energético",
+  "block.void_quantum.bloco_essencia_infinita": "Bloco de Essência Infinita"
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "INI",
+    "NBN",
+    "INI"
+  ],
+  "key": {
+    "I": {"item": "void_quantum:nucleo_infinito"},
+    "N": {"item": "void_quantum:essencia_infinita"},
+    "B": {"item": "void_quantum:bateria_superior"}
+  },
+  "result": {
+    "item": "void_quantum:bateria_infinita",
+    "count": 1
+  }
+}

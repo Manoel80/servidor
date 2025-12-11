@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "NEN",
+    "NEN",
+    " D "
+  ],
+  "key": {
+    "N": {
+      "item": "seu_mod:nucleo_energetico"
+    },
+    "E": {
+      "item": "seu_mod:essencia_celestial"
+    },
+    "D": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "result": {
+    "item": "seu_mod:machado_plasmatico",
+    "count": 1
+  }
+}

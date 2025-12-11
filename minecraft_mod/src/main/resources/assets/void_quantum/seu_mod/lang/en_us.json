@@ -1,0 +1,15 @@
+{
+  "modname.seu_mod": "Your Mod Name",
+  
+  "item.seu_mod.essencia_celestial": "Celestial Essence",
+  "item.seu_mod.cristal_infernal": "Infernal Crystal",
+  "item.seu_mod.nucleo_energetico": "Energy Core",
+  
+  "item.seu_mod.picareta_aquecida": "Heated Pickaxe",
+  "item.seu_mod.espada_energetica": "Energy Sword",
+  "item.seu_mod.machado_plasmatico": "Plasma Axe",
+  
+  "block.seu_mod.minério_essencia": "Essence Ore",
+  "block.seu_mod.bau_infinito": "Infinite Chest",
+  "block.seu_mod.bloco_energetico": "Energy Block"
+}

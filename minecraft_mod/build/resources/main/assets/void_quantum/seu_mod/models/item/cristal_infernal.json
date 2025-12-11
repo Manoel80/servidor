@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "seu_mod:item/cristal_infernal"
+  }
+}

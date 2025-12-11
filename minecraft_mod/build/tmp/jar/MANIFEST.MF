@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Specification-Title: void_quantum
+Specification-Vendor: seu_nome
+Implementation-Title: seu_mod
+Implementation-Version: 1.0.0
+Implementation-Vendor: seu_nome
+

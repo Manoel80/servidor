@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "seu_mod:item/machado_plasmatico"
+  }
+}

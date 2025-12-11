@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "EEE",
+    "ECE",
+    "EEE"
+  ],
+  "key": {
+    "E": {"item": "void_quantum:essencia_elementar"},
+    "C": {"item": "minecraft:copper_block"}
+  },
+  "result": {
+    "item": "void_quantum:gerador_elementar",
+    "count": 1
+  }
+}

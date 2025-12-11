@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ARA",
+    "RAR",
+    "ARA"
+  ],
+  "key": {
+    "A": {"item": "void_quantum:nucleo_supremo"},
+    "R": {"item": "void_quantum:reator_fissao"}
+  },
+  "result": {
+    "item": "void_quantum:reator_fusao",
+    "count": 1
+  }
+}

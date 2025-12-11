@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "void_quantum:item/picareta_elementar"
+  }
+}

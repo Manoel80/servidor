@@ -1,0 +1,57 @@
+modLoader="javafxmod"
+loaderVersion="[1,)"
+license="MIT"
+issueTrackerURL="https://github.com/seu_usuario/nexus_energetico/issues"
+showAsResourcePack=false
+
+[[mods]]
+modId="nexus_energetico"
+version="${file.jarVersion}"
+displayName="Void Quantum"
+logoFile="logo.png"
+credits="Você"
+authors="Seu Nome"
+description='''
+Void Quantum - Sistema Progressivo de 6 Tiers com Reatores Nucleares, 
+Baterias Modulares, Geradores de Energia e muito mais!
+
+6 Níveis de Progressão Completa:
+★ Tier 1: Elementar
+★ Tier 2: Avançado
+★ Tier 3: Superior
+★ Tier 4: Supremo
+★ Tier 5: Infinito
+
+Reatores Nucleares:
+⚛ Fissão Nuclear
+⚛ Fusão Nuclear
+⚛ Termoclear Avançado
+⚛ Híbrido (Fusão + Fissão)
+
+Características:
+• 6 Níveis Progressivos Completos
+• 30+ Items e Recursos Únicos
+• 20+ Blocos Diferentes
+• 4 Reatores Nucleares
+• 6 Baterias Modulares (Até INT_MAX)
+• 4 Tiers de Geradores de Energia
+• Armaduras Progressivas
+• Ferramentas com Recuperação Automática
+• Integração com Mods Energéticos
+'''
+displayURL="https://github.com/seu_usuario/nexus_energetico"
+
+[[dependencies.nexus_energetico]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.21.1]"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.nexus_energetico]]
+modId="forge"
+mandatory=true
+versionRange="[52,)"
+ordering="NONE"
+side="BOTH"
+

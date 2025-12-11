@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "INI",
+    "NGN",
+    "INI"
+  ],
+  "key": {
+    "I": {"item": "void_quantum:nucleo_infinito"},
+    "N": {"item": "void_quantum:essencia_infinita"},
+    "G": {"item": "void_quantum:gerador_superior"}
+  },
+  "result": {
+    "item": "void_quantum:gerador_infinito",
+    "count": 1
+  }
+}

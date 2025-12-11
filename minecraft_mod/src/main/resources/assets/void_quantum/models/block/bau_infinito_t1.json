@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "void_quantum:block/bau_infinito_t1"
+  }
+}
