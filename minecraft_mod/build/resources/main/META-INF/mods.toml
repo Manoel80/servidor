@@ -41,7 +41,7 @@ Características:
 '''
 displayURL="https://github.com/seu_usuario/nexus_energetico"
 
-[[dependencies.nexus_energetico]]
+[[dependencies.void_quantum]]
 modId="minecraft"
 mandatory=true
 versionRange="[1.21.1]"
