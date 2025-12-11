@@ -1,7 +1,7 @@
 # 🚀 Upload Modrinth - Passo a Passo
 
 ## ✅ Arquivos Prontos
-- **JAR**: `void_quantum-1.0.0.jar` (81 KB)
+- **JAR**: `void_quantum-1.0.1.jar` (81 KB)
 - **Descrição**: Já preparada em CURSE_FORGE_DESCRIPTION.txt
 
 ---
@@ -99,14 +99,14 @@ Um mod de tecnologia para Minecraft Forge 1.21.1 com progressão energética atr
 Clique em "Versões" e depois "Upload File":
 
 #### **Informações da Versão:**
-- **Arquivo**: `void_quantum-1.0.0.jar`
+- **Arquivo**: `void_quantum-1.0.1.jar`
 - **Versão do Jogo**: 1.21.1
 - **Tipo de Lançamento**: Release
 - **Carregadores**: Forge
 
 #### **Descrição da Versão:**
 ```
-v1.0.0 - LANÇAMENTO OFICIAL
+v1.0.1 - LANÇAMENTO OFICIAL
 
 🎉 Primeira versão estável do Void Quantum!
 
@@ -148,9 +148,9 @@ v1.0.0 - LANÇAMENTO OFICIAL
 ### **6️⃣ Upload do JAR**
 
 1. Clique em **"Upload File"**
-2. Selecione: `void_quantum-1.0.0.jar` da pasta `build/libs/`
+2. Selecione: `void_quantum-1.0.1.jar` da pasta `build/libs/`
 3. Verifique:
-   - ✅ Versão: 1.0.0
+   - ✅ Versão: 1.0.1
    - ✅ Jogo: Minecraft 1.21.1
    - ✅ Loader: Forge
 4. Clique em **"Publish"**

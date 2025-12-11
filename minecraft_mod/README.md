@@ -77,7 +77,7 @@ Um mod Minecraft revolucionário que introduz um sistema de progressão energét
 ## 🚀 Como Começar
 
 ### Instalação Rápida
-1. **Baixe**: `void_quantum-1.0.0.jar`
+1. **Baixe**: `void_quantum-1.0.1.jar`
 2. **Coloque em**: `.minecraft/mods/`
 3. **Execute**: Minecraft com Forge 1.21.1
 4. **Divirta-se!** 🎮
@@ -140,7 +140,7 @@ Um mod Minecraft revolucionário que introduz um sistema de progressão energét
 
 ## 📝 Changelog
 
-### v1.0.0 - Lançamento Oficial
+### v1.0.1 - Lançamento Oficial
 ```
 ✨ Lançamento inicial com feature-complete
 ✨ 6 tiers de progressão energética
@@ -228,6 +228,6 @@ Void Quantum é um mod em desenvolvimento ativo. Sua comunidade e feedback são 
 - 💾 [GitHub](https://github.com/seu_usuario/void_quantum)
 - 📖 [Wiki Completa](https://github.com/seu_usuario/void_quantum/wiki)
 
-**Versão:** 1.0.0  
+**Versão:** 1.0.1  
 **Última Atualização:** Dezembro 2025  
 **Status:** Ativo e Mantido

@@ -6,7 +6,7 @@
 - [x] JAR gerado (80 KB)
 - [x] README.md profissional criado
 - [x] Descrição Curse Forge preparada
-- [x] Changelog v1.0.0 documentado
+- [x] Changelog v1.0.1 documentado
 - [x] Requisitos especificados
 - [x] Licença definida (MIT)
 - [x] Suporte multilíngue (PT-BR + EN-US)
@@ -15,7 +15,7 @@
 
 ```
 /workspaces/servidor/minecraft_mod/build/libs/
-├── void_quantum-1.0.0.jar (80 KB) ← PRINCIPAL
+├── void_quantum-1.0.1.jar (80 KB) ← PRINCIPAL
 ```
 
 **Autor / Author:** Manoel80 — Brasileiro, alto iniciante e independente  / Brazilian, high beginner and independent. English version: translated with assistance.
@@ -65,10 +65,10 @@ Requisitos:
 
 ### 5. Upload do JAR
 - Clique em "Upload File"
-- Selecione: `void_quantum-1.0.0.jar`
+- Selecione: `void_quantum-1.0.1.jar`
 - Descrição da versão:
 ```
-v1.0.0 - Lançamento Oficial
+v1.0.1 - Lançamento Oficial
 
 ✨ 6 tiers de progressão energética
 ✨ 4 reatores nucleares únicos
@@ -127,7 +127,7 @@ Para melhorar a visibilidade, adicione 3-5 screenshots:
 
 ### Changelog
 ```
-## v1.0.0 - Lançamento Oficial (Dezembro 2025)
+## v1.0.1 - Lançamento Oficial (Dezembro 2025)
 
 ### ✨ Novidades
 - Lançamento inicial do mod
@@ -205,4 +205,4 @@ Seu mod está pronto para o mundo! Boa publicação! 🌌⚛️
 
 **Versão deste Guia**: 1.0  
 **Data**: Dezembro 2025  
-**Mod**: Void Quantum v1.0.0
+**Mod**: Void Quantum v1.0.1

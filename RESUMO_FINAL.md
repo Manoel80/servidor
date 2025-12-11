@@ -1,7 +1,7 @@
 # 🌌 Void Quantum - Resumo Final de Conclusão
 
 **Data:** Dezembro 11, 2025  
-**Versão do Mod:** v1.0.0  
+**Versão do Mod:** v1.0.1  
 **Autor:** Manoel80 - Brasileiro, alto iniciante e independente  
 **Tradução em Inglês:** Com assistência
 
@@ -19,7 +19,7 @@ Seu mod **Void Quantum** foi completamente desenvolvido, compilado, documentado 
 | Aspecto | Detalhe |
 |--------|---------|
 | **Nome do Mod** | Void Quantum |
-| **Versão** | 1.0.0 |
+| **Versão** | 1.0.1 |
 | **Minecraft** | 1.21.1 |
 | **Forge** | 52.0.0+ |
 | **Java** | 21+ |
@@ -71,8 +71,8 @@ Seu mod **Void Quantum** foi completamente desenvolvido, compilado, documentado 
 
 ### JAR Compilado
 ```
-🔗 GitHub Release: https://github.com/Manoel80/servidor/releases/tag/v1.0.0
-📥 Arquivo: void_quantum-1.0.0.jar (81 KB)
+🔗 GitHub Release: https://github.com/Manoel80/servidor/releases/tag/v1.0.1
+📥 Arquivo: void_quantum-1.0.1.jar (81 KB)
 ```
 
 ### Documentação Completa
@@ -113,7 +113,7 @@ Seu mod **Void Quantum** foi completamente desenvolvido, compilado, documentado 
 3. ⏱️ Aprovação: 24-48 horas
 
 ### Opção 3: GitHub (Distribuição Direta)
-- ✅ Já disponível em: https://github.com/Manoel80/servidor/releases/tag/v1.0.0
+- ✅ Já disponível em: https://github.com/Manoel80/servidor/releases/tag/v1.0.1
 - Download direto do JAR disponível agora!
 
 ---
@@ -127,7 +127,7 @@ Se você quiser testar o mod localmente:
 git clone https://github.com/Manoel80/servidor.git
 
 # Copie o JAR para seu Minecraft
-cp minecraft_mod/build/libs/void_quantum-1.0.0.jar ~/.minecraft/mods/
+cp minecraft_mod/build/libs/void_quantum-1.0.1.jar ~/.minecraft/mods/
 
 # Inicie Minecraft com Forge 1.21.1
 ```
@@ -140,7 +140,7 @@ cp minecraft_mod/build/libs/void_quantum-1.0.0.jar ~/.minecraft/mods/
 /workspaces/servidor/
 ├── minecraft_mod/
 │   ├── build/libs/
-│   │   └── void_quantum-1.0.0.jar ⬅️ JAR COMPILADO
+│   │   └── void_quantum-1.0.1.jar ⬅️ JAR COMPILADO
 │   ├── README.md ⬅️ Documentação Principal
 │   ├── CURSE_FORGE_DESCRIPTION.txt ⬅️ Descrição Bilíngue
 │   ├── CURSE_FORGE_PUBLICATION_GUIDE.md ⬅️ Guia Curse Forge
@@ -243,7 +243,7 @@ Localizado em:
 - `minecraft_mod/src/main/java/com/seu_nome/void_quantum/`
 
 ### GitHub
-- Release: https://github.com/Manoel80/servidor/releases/tag/v1.0.0
+- Release: https://github.com/Manoel80/servidor/releases/tag/v1.0.1
 - Código: https://github.com/Manoel80/servidor/
 
 ---
@@ -279,7 +279,7 @@ Agora você tem um **portfólio de desenvolvimento de mods** que pode ser expand
 
 ---
 
-**Void Quantum v1.0.0 - Novembro 2025**  
+**Void Quantum v1.0.1 - Novembro 2025**  
 **Desenvolvido por:** Manoel80  
 **Status:** ✅ COMPLETO E PRONTO PARA PUBLICAÇÃO
 
